@@ -4,7 +4,7 @@
 # Check for installation -> if yes then -> uninstall > detect if application was installed > insert reg keys if uninstalled, if still installed, fail out
 
 $SearchApplicationName = "FortiClient VPN"
-$SearchApplicationVersion = "7.0.2.0090"
+$SearchApplicationVersion = "7.0.5.0238"
 $OutputCodeSuccess = "1"
 $OutputCodeFailure = "2"
 $UninstallAlreadyRan = 'false'
